@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### I'm currently learning
-![Header](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=c#&logoColor=136be1)
+![Header](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=csharp&logoColor=136be1)
 
 ### Testing Documentation
 
