@@ -1,4 +1,4 @@
-## I'm a Manual QA Engineer
+## Manual QA Engineer
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1bOsfEAEtFWVcbUHuhrFwY7_9GPfvaPee/view?usp=share_link)
