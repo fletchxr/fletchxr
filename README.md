@@ -2,7 +2,6 @@
 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1bOsfEAEtFWVcbUHuhrFwY7_9GPfvaPee/view?usp=share_link)
-[Link to my LinkedIn profile](https://www.linkedin.com/in/max-antoshin-501348248/)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
