@@ -16,6 +16,7 @@
 
 ### I'm currently learning
 ![Header](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=136be1)
+![Header](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity&logoColor=136be1)
 
 ### Testing Documentation
 
