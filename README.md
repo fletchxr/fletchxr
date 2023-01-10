@@ -26,4 +26,4 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/fletchxr)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/max-antoshin-501348248/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fletchxr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fletchxr&theme=github_dark&show_icons=true)
