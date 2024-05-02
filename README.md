@@ -1,7 +1,3 @@
-## Manual QA Engineer
-
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1bOsfEAEtFWVcbUHuhrFwY7_9GPfvaPee/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -14,13 +10,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### I'm currently learning
-![Header](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=136be1)
-![Header](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity&logoColor=136be1)
 
-### Testing Documentation
-
-- [Checklists](https://github.com/fletchxr/checklist)
-- [Bug-Reports](https://github.com/fletchxr/Bug-Reports)
 
 ### My Links
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/fletchxr)
